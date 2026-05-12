@@ -72,7 +72,7 @@ const caio = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 ### AI & Data
 ![OpenAI](https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -112,25 +112,6 @@ Proactively built an **MVP ERP system** from scratch for event and ticketing man
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Substitua REPO-NAME pelos nomes reais dos repositórios que quiser destacar -->
-
-<a href="https://github.com/caio-dcc/REPO-NAME-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-dcc&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/caio-dcc/REPO-NAME-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-dcc&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/caio-dcc/REPO-NAME-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-dcc&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/caio-dcc/REPO-NAME-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-dcc&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" />
-</a>
-
----
 
 ## 🤖 AI & LLM Focus
 
