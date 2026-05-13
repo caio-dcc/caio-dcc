@@ -10,7 +10,7 @@
 ```
 
 # Caio Marques
-### Fullstack Developer · AI & Agent Integration
+### Fullstack Developer · Frontend Specialist and Agent Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USERNAME)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.caio.marques@gmail.com)
